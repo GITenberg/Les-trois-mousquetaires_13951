@@ -11,7 +11,7 @@ Title: Les trois mousquetaires
 Author: Alexandre Dumas
 
 Release Date: November 4, 2004 [EBook #13951]
-[Last updated: October 6, 2012]
+[Last updated: January 8, 2017]
 
 Language: French
 
@@ -4636,7 +4636,7 @@ M. de Putange, l'écuyer de la reine. J'étais au séminaire à cette
 
 -- Ce qui ne m'empêcherait pas, dit d'Artagnan, si je savais où
 est le duc de Buckingham, de le prendre par la main et de le
-conduire près de la reine, ne fût-ce que pour faire engager M. le
+conduire près de la reine, ne fût-ce que pour faire enrager M. le
 cardinal; car notre véritable, notre seul, notre éternel ennemi,
 messieurs, c'est le cardinal, et si nous pouvions trouver moyen de
 lui jouer quelque tour bien cruel, j'avoue que j'y engagerais
@@ -5782,8 +5782,9 @@ vous êtes la femme la plus mystérieuse...
 
 -- Est-ce que je perds à cela?
 
--- Non; vous êtes, au contraire, adorable. Alors, donnez-moi le
-bras.
+-- Non; vous êtes, au contraire, adorable.
+
+-- Alors, donnez-moi le bras.
 
 -- Bien volontiers. Et maintenant?
 
@@ -5801,7 +5802,9 @@ bras.
 
 -- Ce sera inutile.
 
--- Vous reviendrez donc seule? Peut-être oui, peut-être non.
+-- Vous reviendrez donc seule?
+
+-- Peut-être oui, peut-être non.
 
 -- Mais la personne qui vous accompagnera ensuite sera-t-elle un
 homme, sera-t-elle une femme?
@@ -5997,7 +6000,7 @@ refuser à qui me demande ainsi; soyez contente, je m'éloigne.
 s'écria Mme Bonacieux en lui tendant une main et en posant l'autre
 sur le marteau d'une petite porte presque perdue dans la muraille.
 
--- D'Artagnan saisit la main qu'on lui tendait et la baisa
+D'Artagnan saisit la main qu'on lui tendait et la baisa
 ardemment.
 
 «Ah! j'aimerais mieux ne vous avoir jamais vue, s'écria d'Artagnan
@@ -10515,8 +10518,8 @@ donnez-moi la préférence.
 
 -- Et cette campagne est située?
 
-À un quart de lieue de la ville; tenez, vous la voyez d'ici, au
-pied de cette petite Éminence, ce toit en ardoises.
+-- À un quart de lieue de la ville; tenez, vous la voyez d'ici, au
+pied de cette petite éminence, ce toit en ardoises.
 
 -- Très bien!» dit le gentilhomme.
 
@@ -15927,7 +15930,7 @@ leurs têtes.
 Si mal montés que fussent les deux amis, ils prirent bientôt les
 devants sur leurs valets et arrivèrent à Crèvecoeur. De loin ils
 aperçurent Aramis mélancoliquement appuyé sur sa fenêtre et
-regardant, comme ma soeur Anne, poudroyer l'horizon.
+regardant, comme _ma soeur Anne_, poudroyer l'horizon.
 
 «Holà, eh! Aramis! que diable faites-vous donc là? crièrent les
 deux amis.
@@ -18014,8 +18017,9 @@ pour la première fois avec une certaine attention.
 -- Eh bien, au lieu de me plaindre, alors, tu ferais bien mieux de
 m'aider à me venger de ta maîtresse.
 
--- Et quelle sorte de vengeance voudriez-vous en tirer? -- Je
-voudrais triompher d'elle, supplanter mon rival.
+-- Et quelle sorte de vengeance voudriez-vous en tirer?
+
+-- Je voudrais triompher d'elle, supplanter mon rival.
 
 -- Je ne vous aiderai jamais à cela, monsieur le chevalier! dit
 vivement Ketty.
@@ -19374,7 +19378,7 @@ voulait venir.
 «Vous le pouvez, madame, dit-il avec emphase, mon bras et ma vie
 vous appartiennent comme mon amour.
 
-Alors, dit Milady, puisque vous êtes aussi généreux qu'amoureux...
+-- Alors, dit Milady, puisque vous êtes aussi généreux qu'amoureux...»
 
 Elle s'arrêta.
 
@@ -19767,7 +19771,7 @@ maintenant.
 -- Non, je n'hésite pas; mais c'est que ce pauvre comte de Wardes
 me fait vraiment peine depuis que vous ne l'aimez plus, et il me
 semble qu'un homme doit être si cruellement puni par la perte
-seule de votre amour, qu'il n'a pas besoin d'autre châtiment:
+seule de votre amour, qu'il n'a pas besoin d'autre châtiment.
 
 -- Qui vous dit que je l'aie aimé? demanda Milady.
 
@@ -20204,7 +20208,7 @@ seulement de quelque grand embarras mais encore de quelque grand
 danger; c'est non seulement un diamant précieux, mais c'est encore
 un talisman enchanté.
 
-Je ne vous comprends pas, mais je crois à ce que vous me dites.
+-- Je ne vous comprends pas, mais je crois à ce que vous me dites.
 Revenons donc à ma bague, ou plutôt à la vôtre, vous toucherez la
 moitié de la somme qu'on nous donnera sur elle ou je la jette dans
 la Seine, et je doute que, comme à Polycrate, quelque poisson soit
@@ -21112,7 +21116,7 @@ sympathies.
 
 -- Monseigneur...
 
-Bien, bien, dit le cardinal, je ne vous en veux pas, mais vous
+-- Bien, bien, dit le cardinal, je ne vous en veux pas, mais vous
 comprenez, on a assez de défendre ses amis et de les récompenser,
 on ne doit rien à ses ennemis, et cependant je vous donnerai un
 conseil: tenez-vous bien, monsieur d'Artagnan, car, du moment que
@@ -22836,8 +22840,11 @@ elle allait être chargée, cependant s'il persiste?
 
 -- C'est possible, dit Milady.
 
--- S'il persiste...» Son Éminence fit une pause et reprit»S'il
-persiste, eh bien, j'espérerai dans un de ces événements qui
+-- S'il persiste...»
+
+Son Éminence fit une pause et reprit...
+
+«S'il persiste, eh bien, j'espérerai dans un de ces événements qui
 changent la face des États.
 
 -- Si Son Éminence voulait me citer dans l'histoire quelques-uns
@@ -23607,9 +23614,9 @@ m'apprendre où nous allons?
 
 -- Vous le savez bien, nous y allons déjeuner.
 
--- Mais pourquoi n'avons-nous pas déjeuné au Parpaillat?
+-- Mais pourquoi n'avons-nous pas déjeuné au Parpaillot?
 
-Parce que nous avons des choses fort importantes à nous dire, et
+-- Parce que nous avons des choses fort importantes à nous dire, et
 qu'il était impossible de causer cinq minutes dans cette auberge
 avec tous ces importuns qui vont, qui viennent, qui saluent, qui
 accostent; ici, du moins, continua Athos en montrant le bastion,
@@ -24780,7 +24787,7 @@ lui écrirai donc une lettre à peu près en ces termes:
 -- Voyons, dit Aramis, en prenant par avance un visage de
 critique.
 
---»Monsieur et cher ami...»
+--«Monsieur et cher ami...»
 
 -- Ah! oui; cher ami, à un Anglais, interrompit Athos; bien
 commencé! bravo, d'Artagnan! Rien qu'avec ce mot-là vous serez
@@ -30393,7 +30400,7 @@ papier.
 
 -- Oui, dit Aramis, mais ce nom est un nom de ville ou de village.
 
---»Armentières», lut Porthos. Armentières, je ne connais pas cela!
+--«Armentières», lut Porthos. Armentières, je ne connais pas cela!
 
 -- Et ce nom de ville ou de village est écrit de sa main! s'écria
 Athos.
@@ -32688,9 +32695,7 @@ fleur de lis sur l'épaule gauche.
 qui a prononcé sur moi cette sentence infâme. Je défie de
 retrouver celui qui l'a exécutée.
 
--- Silence, dit une voix.
-
--- À ceci, c'est à moi de répondre!»
+-- Silence, dit une voix. À ceci, c'est à moi de répondre!»
 
 Et l'homme au manteau rouge s'approcha à son tour.
 
